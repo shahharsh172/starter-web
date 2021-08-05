@@ -15,3 +15,7 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+
+# Friends
+  
+  Imp part of live.
