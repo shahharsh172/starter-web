@@ -7,3 +7,8 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 # Git  working on
+
+ok ok
+
+
+Keep working, thats what system teachs you!
